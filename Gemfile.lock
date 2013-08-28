@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    motion_abstract_type (0.0.6)
+      motion-require
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    motion-require (0.0.7)
+    rake (10.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  motion_abstract_type!
+  rake
